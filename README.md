@@ -1,4 +1,7 @@
-# api documentation for  [sjcl (v1.0.6)](https://github.com/bitwiseshiftleft/sjcl#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-sjcl.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sjcl) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sjcl.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sjcl)
+# npmdoc-sjcl
+
+#### basic api documentation for  [sjcl (v1.0.6)](https://github.com/bitwiseshiftleft/sjcl#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-sjcl.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sjcl) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sjcl.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sjcl)
+
 #### Stanford Javascript Crypto Library
 
 [![NPM](https://nodei.co/npm/sjcl.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sjcl)
@@ -65,7 +68,8 @@
         "lint": "eslint . || true",
         "test": "make test"
     },
-    "version": "1.0.6"
+    "version": "1.0.6",
+    "bin": {}
 }
 ```
 
